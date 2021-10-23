@@ -123,8 +123,9 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    width: 600px;
+    width: 300px;
     margin: auto;
+    text-align: center;
 }
 
 main h1 {
